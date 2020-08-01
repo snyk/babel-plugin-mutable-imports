@@ -4,7 +4,7 @@
   "main": "lib/plugin.js",
   "scripts": {
     "test": "jest",
-    "format": "prettier --write lib/**/*.?s test/**/*.?s"
+    "format": "prettier --write lib/**/*.?s test/**/*.?s examples/*/{src,test}/*.?s"
   },
   "author": "snyk",
   "license": "ISC",
